@@ -1,1 +1,0 @@
-/Users/mikanevalainen/Documents/code/helsinki-design-system-poc/public/assets/f0e45107-f07ebf53110b307e6668.js
