@@ -1,1 +1,0 @@
-/Users/mikanevalainen/Documents/code/helsinki-design-system-poc/public/assets/component---src-pages-index-mdx-7f00191aaa93f4df3bbe.js
