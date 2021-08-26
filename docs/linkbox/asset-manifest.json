@@ -1,33 +1,32 @@
 {
   "files": {
-    "0.aaf5c1f4.iframe.bundle.js": "./0.aaf5c1f4.iframe.bundle.js",
-    "main.css": "./static/css/main.de1eeed7.chunk.css",
-    "main.js": "./main.c9bae6fb.iframe.bundle.js",
-    "main.css.map": "./static/css/main.de1eeed7.chunk.css.map",
-    "runtime~main.js": "./runtime~main.128586e0.iframe.bundle.js",
-    "vendors~main.js": "./vendors~main.ec5b9eec.iframe.bundle.js",
-    "vendors~main.js.map": "./vendors~main.ec5b9eec.iframe.bundle.js.map",
+    "0.579c1f2e.iframe.bundle.js": "./0.579c1f2e.iframe.bundle.js",
+    "main.css": "./static/css/main.db209b9d.chunk.css",
+    "main.js": "./main.4817cec1.iframe.bundle.js",
+    "main.css.map": "./static/css/main.db209b9d.chunk.css.map",
+    "runtime~main.js": "./runtime~main.7b04d4f0.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.d76bc075.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.d76bc075.iframe.bundle.js.map",
     "4.04be5760.iframe.bundle.js": "./4.04be5760.iframe.bundle.js",
     "4.04be5760.iframe.bundle.js.map": "./4.04be5760.iframe.bundle.js.map",
-    "5.85e7ec60.iframe.bundle.js": "./5.85e7ec60.iframe.bundle.js",
-    "6.ba5821f9.iframe.bundle.js": "./6.ba5821f9.iframe.bundle.js",
-    "6.ba5821f9.iframe.bundle.js.map": "./6.ba5821f9.iframe.bundle.js.map",
+    "5.93118d99.iframe.bundle.js": "./5.93118d99.iframe.bundle.js",
+    "6.11f836c3.iframe.bundle.js": "./6.11f836c3.iframe.bundle.js",
+    "6.11f836c3.iframe.bundle.js.map": "./6.11f836c3.iframe.bundle.js.map",
     "7.e0c369b4.iframe.bundle.js": "./7.e0c369b4.iframe.bundle.js",
     "4.04be5760.iframe.bundle.js.LICENSE.txt": "./4.04be5760.iframe.bundle.js.LICENSE.txt",
-    "6.ba5821f9.iframe.bundle.js.LICENSE.txt": "./6.ba5821f9.iframe.bundle.js.LICENSE.txt",
+    "6.11f836c3.iframe.bundle.js.LICENSE.txt": "./6.11f836c3.iframe.bundle.js.LICENSE.txt",
     "iframe.html": "./iframe.html",
-    "precache-manifest.b5cb33d9919aad8a47ce1784027acadd.js": "./precache-manifest.b5cb33d9919aad8a47ce1784027acadd.js",
+    "precache-manifest.bf7d6f8a0ea2cca84ae0775163a948a9.js": "./precache-manifest.bf7d6f8a0ea2cca84ae0775163a948a9.js",
     "service-worker.js": "./service-worker.js",
-    "static/media/example-img-medium.png": "./static/media/example-img-medium.7ffdc664.png",
-    "static/media/example-img-small.png": "./static/media/example-img-small.c33c4950.png",
-    "static/media/example-img.png": "./static/media/example-img.7659e725.png",
+    "static/media/placeholder-large.png": "./static/media/placeholder-large.5df485b7.png",
+    "static/media/placeholder-medium.png": "./static/media/placeholder-medium.a11d6939.png",
     "static/media/placeholder_1920x1080.jpg": "./static/media/placeholder_1920x1080.4c706998.jpg",
-    "vendors~main.ec5b9eec.iframe.bundle.js.LICENSE.txt": "./vendors~main.ec5b9eec.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.d76bc075.iframe.bundle.js.LICENSE.txt": "./vendors~main.d76bc075.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.128586e0.iframe.bundle.js",
-    "vendors~main.ec5b9eec.iframe.bundle.js",
-    "static/css/main.de1eeed7.chunk.css",
-    "main.c9bae6fb.iframe.bundle.js"
+    "runtime~main.7b04d4f0.iframe.bundle.js",
+    "vendors~main.d76bc075.iframe.bundle.js",
+    "static/css/main.db209b9d.chunk.css",
+    "main.4817cec1.iframe.bundle.js"
   ]
 }
