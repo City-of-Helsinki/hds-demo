@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhds_site=self.webpackChunkhds_site||[]).push([[817],{6469:function(n,t,e){e.r(t),e.d(t,{_frontmatter:function(){return c},default:function(){return i}});var o=e(3366),s=(e(7294),e(4983)),u=e(8472),r=["components"],c={},a={_frontmatter:c},f=u.Z;function i(n){var t=n.components,e=(0,o.Z)(n,r);return(0,s.kt)(f,Object.assign({},a,e,{components:t,mdxType:"MDXLayout"}),(0,s.kt)("h1",null,"Icons"),(0,s.kt)("p",null,"Icons"))}i.isMDXComponent=!0}}]);
+//# sourceMappingURL=component---src-docs-elements-design-tokens-icons-mdx-1568206b5c19c229e8e4.js.map
