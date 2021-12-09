@@ -1,0 +1,32 @@
+{
+  "files": {
+    "0.fe8a78aa.iframe.bundle.js": "./0.fe8a78aa.iframe.bundle.js",
+    "main.css": "./static/css/main.8794cacf.chunk.css",
+    "main.js": "./main.2d375ad9.iframe.bundle.js",
+    "main.css.map": "./static/css/main.8794cacf.chunk.css.map",
+    "runtime~main.js": "./runtime~main.b18a74e3.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.e73bbaca.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.e73bbaca.iframe.bundle.js.map",
+    "4.d58647f4.iframe.bundle.js": "./4.d58647f4.iframe.bundle.js",
+    "4.d58647f4.iframe.bundle.js.map": "./4.d58647f4.iframe.bundle.js.map",
+    "5.b2cbeddf.iframe.bundle.js": "./5.b2cbeddf.iframe.bundle.js",
+    "6.9097de3c.iframe.bundle.js": "./6.9097de3c.iframe.bundle.js",
+    "6.9097de3c.iframe.bundle.js.map": "./6.9097de3c.iframe.bundle.js.map",
+    "7.7820f97b.iframe.bundle.js": "./7.7820f97b.iframe.bundle.js",
+    "4.d58647f4.iframe.bundle.js.LICENSE.txt": "./4.d58647f4.iframe.bundle.js.LICENSE.txt",
+    "6.9097de3c.iframe.bundle.js.LICENSE.txt": "./6.9097de3c.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.de8531cee78003d800cf81db1bce6e58.js": "./precache-manifest.de8531cee78003d800cf81db1bce6e58.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/placeholder-large.png": "./static/media/placeholder-large.5df485b7.png",
+    "static/media/placeholder-medium.png": "./static/media/placeholder-medium.a11d6939.png",
+    "static/media/placeholder_1920x1080.jpg": "./static/media/placeholder_1920x1080.4c706998.jpg",
+    "vendors~main.e73bbaca.iframe.bundle.js.LICENSE.txt": "./vendors~main.e73bbaca.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.b18a74e3.iframe.bundle.js",
+    "vendors~main.e73bbaca.iframe.bundle.js",
+    "static/css/main.8794cacf.chunk.css",
+    "main.2d375ad9.iframe.bundle.js"
+  ]
+}
