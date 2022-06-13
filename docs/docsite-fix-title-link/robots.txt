@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /v1
+Sitemap: https://hds.hel.fi/sitemap/sitemap-index.xml
+Host: https://hds.hel.fi
