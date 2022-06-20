@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-docs-components-card-index-mdx",
     "path": "/components/card/",
-    "result": {"pageContext":{"frontmatter":{"slug":"/components/card","title":"Card","nav_title":"Card"}}},
-    "staticQueryHashes": ["722642046"]}
+    "result": {"pageContext":{"frontmatter":{"slug":"/components/card","title":"Card","navTitle":"Card"}}},
+    "staticQueryHashes": ["2952889254"]}

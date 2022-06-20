@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-docs-components-stepper-index-mdx",
     "path": "/components/stepper/",
-    "result": {"pageContext":{"frontmatter":{"slug":"/components/stepper","title":"Stepper","nav_title":"Stepper"}}},
-    "staticQueryHashes": ["722642046"]}
+    "result": {"pageContext":{"frontmatter":{"slug":"/components/stepper","title":"Stepper","navTitle":"Stepper"}}},
+    "staticQueryHashes": ["2952889254"]}

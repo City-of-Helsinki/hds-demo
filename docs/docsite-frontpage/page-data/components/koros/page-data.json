@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-docs-components-koros-index-mdx",
     "path": "/components/koros/",
-    "result": {"pageContext":{"frontmatter":{"slug":"/components/koros","title":"Koros","nav_title":"Koros"}}},
-    "staticQueryHashes": ["722642046"]}
+    "result": {"pageContext":{"frontmatter":{"slug":"/components/koros","title":"Koros","navTitle":"Koros"}}},
+    "staticQueryHashes": ["2952889254"]}

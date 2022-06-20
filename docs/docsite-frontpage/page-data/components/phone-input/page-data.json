@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-docs-components-phone-input-index-mdx",
     "path": "/components/phone-input/",
-    "result": {"pageContext":{"frontmatter":{"slug":"/components/phone-input","title":"PhoneInput","nav_title":"PhoneInput"}}},
-    "staticQueryHashes": ["722642046"]}
+    "result": {"pageContext":{"frontmatter":{"slug":"/components/phone-input","title":"PhoneInput","navTitle":"PhoneInput"}}},
+    "staticQueryHashes": ["2952889254"]}
