@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-docs-index-mdx",
     "path": "/",
-    "result": {"pageContext":{"frontmatter":{"slug":"/","title":"Home page"}}},
-    "staticQueryHashes": ["722642046"]}
+    "result": {"pageContext":{"frontmatter":{"slug":"/","title":"Home page","customLayout":true}}},
+    "staticQueryHashes": ["2952889254"]}

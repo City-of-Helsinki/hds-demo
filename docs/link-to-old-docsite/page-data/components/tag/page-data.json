@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-docs-components-tag-index-mdx",
     "path": "/components/tag/",
-    "result": {"pageContext":{"frontmatter":{"slug":"/components/tag","title":"Tag","nav_title":"Tag"}}},
-    "staticQueryHashes": ["722642046"]}
+    "result": {"pageContext":{"frontmatter":{"slug":"/components/tag","title":"Tag","navTitle":"Tag"}}},
+    "staticQueryHashes": ["2952889254"]}
