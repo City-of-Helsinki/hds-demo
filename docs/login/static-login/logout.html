@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <title>User logged out</title>
@@ -8,8 +8,7 @@
     <p>Redirecting back to Storybook in three seconds.</p>
     <script>
       setTimeout(() => {
-        const isLocalHost = window.origin.includes('localhost');
-        const prefix = isLocalHost ? window.origin : `${window.origin}/storybook/react/`;
+        const prefix = `${window.origin}/hds-demo/login/`;
         window.location.href = `${prefix}?path=/story/components-login--example-application&args=useKeycloak:true`;
       }, 3000);
     </script>
