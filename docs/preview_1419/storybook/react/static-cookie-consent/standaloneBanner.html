@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Example of standalone cookiebanner</title>
+    <title>Example of standalone cookie banner</title>
     <script>
       /* Example listener for cookie consent change events */
       window.addEventListener('hds-cookie-consent-changed', function (event) {
@@ -20,7 +20,7 @@
       });
 
       /* Example listener for cookie consent ready event */
-      window.addEventListener('hds_cookieConsent_ready', function (event) {
+      window.addEventListener('hds-cookie-consent-ready', function (event) {
         console.log('HDS cookie consent has finished loading and parsing consents.');
         console.log('Current consents', JSON.stringify(window.hds.cookieConsent.getAllConsentStatuses()));
       });
@@ -29,7 +29,7 @@
       function checkCookieConsents() {
         const siteSettings = 'helfi_sitesettings.json';
         const options = {
-          submitEvent: 'hds-cookie-consent-changed',
+          submitEvent: true,
         };
         hds.CookieConsentCore.create(siteSettings, options);
       }
