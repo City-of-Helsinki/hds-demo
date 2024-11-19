@@ -37,7 +37,7 @@
       "cookies": [
         {
           "name": "helfi-cookie-consents",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Sivusto käyttää tätä evästettä tietojen tallentamiseen siitä, ovatko kävijät antaneet hyväksyntänsä tai kieltäytyneet evästeiden käytöstä.",
             "sv": "Cookie möjliggör hantering av cookies på webbplatsen.",
@@ -52,7 +52,7 @@
         },
         {
           "name": "helfi-settings",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Sivusto käyttää tätä tietuetta tietojen tallentamiseen siitä, mitä poikkeusilmoituksia on suljettu ja mikä on avattavien sisältöalueiden tila.",
             "sv": "Används av hel.fi Drupal för att lagra information om stängda meddelanden och accordions' tillstånd.",
@@ -63,21 +63,21 @@
         },
         {
           "name": "cookie-agreed-version",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "Temporary EU Cookie Consent Module cookie",
           "expiration": "-",
           "storageType": 1
         },
         {
           "name": "cookie-agreed-categories",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "Temporary EU Cookie Consent Module cookie",
           "expiration": "-",
           "storageType": 1
         },
         {
           "name": "cookie-agreed",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "Temporary EU Cookie Consent Module cookie",
           "expiration": "-",
           "storageType": 1
@@ -99,7 +99,7 @@
         },
         {
           "name": "SSESS*",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Sisällönhallintajärjestelmän toimintaan liittyvä eväste.",
             "sv": "En cookie relaterad till driften av innehållshanteringssystemet.",
@@ -189,28 +189,28 @@
         },
         {
           "name": "Drupal.gin.darkmode",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "Drupal settings",
           "expiration": "-",
           "storageType": 2
         },
         {
           "name": "Drupal.toolbar.toolbarState",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "Drupal settings",
           "expiration": "-",
           "storageType": 3
         },
         {
           "name": "escapeAdminPath",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "Drupal settings",
           "expiration": "-",
           "storageType": 3
         },
         {
           "name": "editoria11yResultCount",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "Drupal accessibility extension",
           "expiration": "-",
           "storageType": 2
@@ -665,7 +665,7 @@
       "cookies": [
         {
           "name": "nmstat",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Siteimproven tilastointieväste kerää tietoa kävijän sivujen käytöstä.",
             "sv": "Siteimproves kaka samlar information om hur webbplatsen används.",
@@ -680,7 +680,7 @@
         },
         {
           "name": "_pk_id.*",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Matomo-tilastointijärjestelmän eväste.",
             "sv": "Matomo-statistiksystemets kaka samlar information om hur webbplatsen används.",
@@ -695,7 +695,7 @@
         },
         {
           "name": "_pk_ses.141.89f6",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": "-",
           "expiration": {
             "fi": "1 tunti",
@@ -895,7 +895,7 @@
       "cookies": [
         {
           "name": "_genesys.widgets.*",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Käytetään chatin tarvitseman datan tallentamiseen.",
             "sv": "Käytetään chatin tarvitseman datan tallentamiseen.",
@@ -910,7 +910,7 @@
         },
         {
           "name": "leijuke.*",
-          "host": "www.hel.fi",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Käytetään chatin tarvitseman datan tallentamiseen.",
             "sv": "Käytetään chatin tarvitseman datan tallentamiseen.",
