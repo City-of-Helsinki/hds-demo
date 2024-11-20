@@ -216,8 +216,8 @@
           "storageType": 2
         },
         {
-          "host": "*.hel.fi",
           "name": "_pk_ses*",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Eväste kerää tietoa kävijän liikkeistä sivustolla.",
             "sv": "Statistiksystemets kaka samlar information om hur webbplatsen används.",
@@ -231,8 +231,8 @@
           "storageType": 1
         },
         {
-          "host": "*.hel.fi",
           "name": "mtm_.*",
+          "host": "*.hel.fi",
           "description": {
             "fi": "Evästeeseen tallennetaan suostumus tilastointievästeisiin.",
             "sv": "Kakan lagrar samtycke för användning av statistikkakorna.",
@@ -246,8 +246,8 @@
           "storageType": 1
         },
         {
-          "host": "api.hel.fi",
           "name": "sso-sessionid",
+          "host": "api.hel.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -261,8 +261,8 @@
           "storageType": 1
         },
         {
-          "host": "suomi.fi",
           "name": "JSESSIONID",
+          "host": "suomi.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -276,8 +276,8 @@
           "storageType": 1
         },
         {
-          "host": "suomi.fi",
           "name": "E-Identification-LogTag",
+          "host": "suomi.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -291,8 +291,8 @@
           "storageType": 1
         },
         {
-          "host": "suomi.fi",
           "name": "_opensaml_req_cookie*",
+          "host": "suomi.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -306,8 +306,8 @@
           "storageType": 1
         },
         {
-          "host": "suomi.fi",
           "name": "_shibstate_*",
+          "host": "suomi.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -321,8 +321,8 @@
           "storageType": 1
         },
         {
-          "host": "suomi.fi",
           "name": "_shibsession_*",
+          "host": "suomi.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -336,8 +336,8 @@
           "storageType": 1
         },
         {
-          "host": "suomi.fi",
           "name": "shib_idp_session",
+          "host": "suomi.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -366,8 +366,8 @@
           "storageType": 1
         },
         {
-          "host": "api.hel.fi",
           "name": "tunnistamo_prod-sessionid",
+          "host": "api.hel.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -381,37 +381,8 @@
           "storageType": 1
         },
         {
-          "host": "api.hel.fi",
           "name": "tunnistamo_prod-csrftoken",
-          "description": {
-            "fi": "Tietoturvakontrolli",
-            "sv": "Datasäkerhetskontroll",
-            "en": "A security control"
-          },
-          "expiration": {
-            "fi": "365 päivää",
-            "sv": "365 dagar",
-            "en": "365 days"
-          },
-          "storageType": 1
-        },
-        {
-          "host": "api.hel.fi, tunnistus.hel.fi",
-          "description": {
-            "fi": "Verkkoliikenteen tekninen reititys.",
-            "sv": "Teknisk routning av webbtrafiken.",
-            "en": "Technical routing of requests."
-          },
-          "expiration": {
-            "fi": "Istunto",
-            "sv": "Session",
-            "en": "Session"
-          },
-          "storageType": 1
-        },
-        {
           "host": "api.hel.fi",
-          "name": "profiili-prod-csrftoken",
           "description": {
             "fi": "Tietoturvakontrolli",
             "sv": "Datasäkerhetskontroll",
@@ -425,8 +396,23 @@
           "storageType": 1
         },
         {
-          "host": "tunnistus.hel.fi",
+          "name": "profiili-prod-csrftoken",
+          "host": "api.hel.fi",
+          "description": {
+            "fi": "Tietoturvakontrolli",
+            "sv": "Datasäkerhetskontroll",
+            "en": "A security control"
+          },
+          "expiration": {
+            "fi": "365 päivää",
+            "sv": "365 dagar",
+            "en": "365 days"
+          },
+          "storageType": 1
+        },
+        {
           "name": "AUTH_SESSION_ID",
+          "host": "tunnistus.hel.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -440,8 +426,8 @@
           "storageType": 1
         },
         {
-          "host": "tunnistus.hel.fi",
           "name": "AUTH_SESSION_ID_LEGACY",
+          "host": "tunnistus.hel.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
@@ -455,8 +441,8 @@
           "storageType": 1
         },
         {
-          "host": "tunnistus.hel.fi",
           "name": "KC_*",
+          "host": "tunnistus.hel.fi",
           "description": {
             "fi": "Tunnistautumisistunnon säilymiseksi vaadittu eväste.",
             "sv": "Cookie som krävs för att bevara autentiseringssession.",
