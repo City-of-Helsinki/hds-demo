@@ -6,7 +6,7 @@
   <body>
     <script>
       const isLocalHost = window.origin.includes('localhost');
-      const prefix = isLocalHost ? window.origin : `${window.origin}/storybook/react/`;
+      const prefix = isLocalHost ? window.origin : `${window.origin}/hds-demo/login/`;
       window.location.href = `${prefix}${window.location.search}&path=/story/components-login--callback#${window.location.hash}`;
     </script>
   </body>
