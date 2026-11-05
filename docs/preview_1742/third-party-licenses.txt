@@ -3636,7 +3636,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ------------------------------------------------------------------------------
-sanitize-html@2.18.0
+sanitize-html@2.18.1
 License: MIT
 
 Copyright (c) 2013, 2014, 2015 P'unk Avenue LLC
